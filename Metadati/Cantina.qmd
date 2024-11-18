@@ -1,0 +1,78 @@
+<!DOCTYPE qgis PUBLIC 'http://mrcc.com/qgis.dtd' 'SYSTEM'>
+<qgis version="3.22.11-Białowieża">
+  <identifier>/Users/martinacolombo/Downloads/Franciacorta/Franciacorta /Cantine/Cantine.shp</identifier>
+  <parentidentifier>Cantina</parentidentifier>
+  <language>ITA</language>
+  <type>dataset</type>
+  <title>Cantina</title>
+  <abstract>IdCantine (PK): identificazione della cantina vinicola, agricola e sociale
+TipoCantina: il tipo di cantina ovvero se è 
+NomeCantina: nome della cantina
+Indirizzo: dov'è localizzata la cantina 
+AnnoApertura: anno in cui è stata aperta la cantina
+Propretari: il proprietario della cantina
+SitoWeb: sito web della cantina
+IdComune (FK): identificatore del comune che appartiene la cantina
+X,Y: coordinate geografiche di dov'è situata la cantine
+Le cantine si dividono in 3 tipologie vinicola, agricola e sociale.</abstract>
+  <keywords vocabulary="gmd:topicCategory">
+    <keyword>Cantina</keyword>
+  </keywords>
+  <contact>
+    <name>Gruppo13</name>
+    <organization></organization>
+    <position></position>
+    <voice></voice>
+    <fax></fax>
+    <email></email>
+    <role></role>
+  </contact>
+  <links>
+    <link format="" url="https://barbogliodegaioncelli.it/degustazioni/" mimeType="" size="" type="https" name="Barboglio De Gaiocelli" description=""/>
+    <link format="" url="https://www.bosiofranciacorta.it/" mimeType="" size="" type="https" name="Bosio" description=""/>
+    <link format="" url="https://fratelliberlucchi.it/" mimeType="" size="" type="https" name="Fratelli Berlucchi" description=""/>
+    <link format="" url="https://fratelliberlucchi.it/" mimeType="" size="" type="https" name="Guido Berlucchi &amp; C." description=""/>
+    <link format="" url="http://agricolaildosso.info/" mimeType="" size="" type="https" name="Il dosso" description=""/>
+    <link format="" url="https://www.quattroterre.it/" mimeType="" size="" type="https" name="Le quattro terre " description=""/>
+    <link format="" url="https://www.lafioca.com/it/" mimeType="" size="" type="https" name="Societa' Agricola la Fio'ca" description=""/>
+    <link format="" url="https://www.brutell.it/" mimeType="" size="" type="https" name="Azienda Agricola Brutelli" description=""/>
+    <link format="" url="https://www.colabattista.it/" mimeType="" size="" type="https" name="Azienda Agricola Cola Battista" description=""/>
+    <link format="" url="https://www.cornaleto.it/" mimeType="" size="" type="https" name="Azienda Vinicola Cornaleto" description=""/>
+    <link format="" url="https://www.contadicastaldi.it/it/" mimeType="" size="" type="https" name="Contadi Castaldi" description=""/>
+    <link format="" url="https://www.ferghettina.it/" mimeType="" size="" type="https" name="Ferghettina" description=""/>
+    <link format="" url="https://francacontea.it/" mimeType="" size="" type="https" name="Franca Contea" description=""/>
+    <link format="" url="https://vinidifranciacortalatorre.it/" mimeType="" size="" type="https" name="La Torre " description=""/>
+    <link format="" url="https://www.roncocalino.it/it/" mimeType="" size="" type="https" name="Ronco Calino" description=""/>
+    <link format="" url="https://www.villacrespia.it/" mimeType="" size="" type="https" name="Villa Crespia " description=""/>
+    <link format="" url="http://www.cascinaclarabella.it/" mimeType="" size="" type="https" name="Centottanta Cantina &amp; Cucina" description=""/>
+    <link format="" url="http://www.cascinaclarabella.it/" mimeType="" size="" type="https" name="Cantina Clarabella" description=""/>
+    <link format="" url="https://www.monziocompagnoni.org/" mimeType="" size="" type="https" name="Monzio Compagnoni Srl" description=""/>
+    <link format="" url="https://www.corteaura.it/" mimeType="" size="" type="https" name="Corte Aura " description=""/>
+    <link format="" url="http://www.licinsi.it/?page_id=2554" mimeType="" size="" type="https" name="Licinsì" description=""/>
+  </links>
+  <history></history>
+  <fees></fees>
+  <encoding></encoding>
+  <crs>
+    <spatialrefsys>
+      <wkt></wkt>
+      <proj4></proj4>
+      <srsid>0</srsid>
+      <srid>0</srid>
+      <authid></authid>
+      <description></description>
+      <projectionacronym></projectionacronym>
+      <ellipsoidacronym></ellipsoidacronym>
+      <geographicflag>false</geographicflag>
+    </spatialrefsys>
+  </crs>
+  <extent>
+    <spatial minx="0" crs="" miny="0" maxz="0" minz="0" maxx="0" dimensions="2" maxy="0"/>
+    <temporal>
+      <period>
+        <start></start>
+        <end></end>
+      </period>
+    </temporal>
+  </extent>
+</qgis>

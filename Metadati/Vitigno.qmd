@@ -1,0 +1,72 @@
+<!DOCTYPE qgis PUBLIC 'http://mrcc.com/qgis.dtd' 'SYSTEM'>
+<qgis version="3.22.11-Białowieża">
+  <identifier>/Users/martinacolombo/Downloads/Franciacorta/Franciacorta /Vitigno/Vitigno.csv</identifier>
+  <parentidentifier>Vitigno</parentidentifier>
+  <language>ITA</language>
+  <type>dataset</type>
+  <title>Vitigno</title>
+  <abstract>IdVitigno (PK): identificatore del vitigno 
+TipoVitigno: varietà di vite
+TipoBacca:colore dell'acino d'uva 
+Con la tabella vitigno si vuole elencare tutti i tipi di vitigni con il rispettivo colore della bacca che si divide in bacca bianca e bacca nera.</abstract>
+  <keywords vocabulary="gmd:topicCategory">
+    <keyword>Coltivazione</keyword>
+    <keyword>Vitigno</keyword>
+  </keywords>
+  <contact>
+    <name>Gruppo13</name>
+    <organization></organization>
+    <position></position>
+    <voice></voice>
+    <fax></fax>
+    <email></email>
+    <role></role>
+  </contact>
+  <links>
+    <link description="" type="https" format="" mimeType="" url="https://barbogliodegaioncelli.it/degustazioni/" size="" name="Barboglio De Gaiocelli"/>
+    <link description="" type="https" format="" mimeType="" url="https://www.bosiofranciacorta.it/" size="" name="Bosio"/>
+    <link description="" type="https" format="" mimeType="" url="https://fratelliberlucchi.it/" size="" name="Fratelli Berlucchi"/>
+    <link description="" type="https" format="" mimeType="" url="https://fratelliberlucchi.it/" size="" name="Guido Berlucchi &amp; C."/>
+    <link description="" type="https" format="" mimeType="" url="http://agricolaildosso.info/" size="" name="Il dosso"/>
+    <link description="" type="https" format="" mimeType="" url="https://www.quattroterre.it/" size="" name="Le quattro terre "/>
+    <link description="" type="https" format="" mimeType="" url="https://www.lafioca.com/it/" size="" name="Societa' Agricola la Fio'ca"/>
+    <link description="" type="https" format="" mimeType="" url="https://www.brutell.it/" size="" name="Azienda Agricola Brutelli"/>
+    <link description="" type="https" format="" mimeType="" url="https://www.colabattista.it/" size="" name="Azienda Agricola Cola Battista"/>
+    <link description="" type="https" format="" mimeType="" url="https://www.cornaleto.it/" size="" name="Azienda Vinicola Cornaleto"/>
+    <link description="" type="https" format="" mimeType="" url="https://www.contadicastaldi.it/it/" size="" name="Contadi Castaldi"/>
+    <link description="" type="https" format="" mimeType="" url="https://www.ferghettina.it/" size="" name="Ferghettina"/>
+    <link description="" type="https" format="" mimeType="" url="https://francacontea.it/" size="" name="Franca Contea"/>
+    <link description="" type="https" format="" mimeType="" url="https://vinidifranciacortalatorre.it/" size="" name="La Torre "/>
+    <link description="" type="https" format="" mimeType="" url="https://www.roncocalino.it/it/" size="" name="Ronco Calino"/>
+    <link description="" type="https" format="" mimeType="" url="https://www.villacrespia.it/" size="" name="Villa Crespia "/>
+    <link description="" type="https" format="" mimeType="" url="http://www.cascinaclarabella.it/" size="" name="Centottanta Cantina &amp; Cucina"/>
+    <link description="" type="https" format="" mimeType="" url="http://www.cascinaclarabella.it/" size="" name="Cantina Clarabella"/>
+    <link description="" type="https" format="" mimeType="" url="https://www.monziocompagnoni.org/" size="" name="Monzio Compagnoni Srl"/>
+    <link description="" type="https" format="" mimeType="" url="https://www.corteaura.it/" size="" name="Corte Aura "/>
+    <link description="" type="https" format="" mimeType="" url="http://www.licinsi.it/?page_id=2554" size="" name="Licinsì"/>
+  </links>
+  <fees></fees>
+  <encoding></encoding>
+  <crs>
+    <spatialrefsys>
+      <wkt></wkt>
+      <proj4></proj4>
+      <srsid>0</srsid>
+      <srid>0</srid>
+      <authid></authid>
+      <description></description>
+      <projectionacronym></projectionacronym>
+      <ellipsoidacronym></ellipsoidacronym>
+      <geographicflag>false</geographicflag>
+    </spatialrefsys>
+  </crs>
+  <extent>
+    <spatial maxz="0" maxy="0" miny="0" crs="" dimensions="2" maxx="0" minx="0" minz="0"/>
+    <temporal>
+      <period>
+        <start></start>
+        <end></end>
+      </period>
+    </temporal>
+  </extent>
+</qgis>
